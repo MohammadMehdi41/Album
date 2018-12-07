@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="standard_margin">2dp</dimen>
+    <dimen name="standard_margin_x1">4dp</dimen>
+    <dimen name="standard_margin_x2">8dp</dimen>
+
+
+    <dimen name="small_font_size">10dp</dimen>
+    <dimen name="normal_font_size">12dp</dimen>
+    <dimen name="large_font_size">14dp</dimen>
+
+    <dimen name="standard_card_elevation">2dp</dimen>
+    <dimen name="standard_card_radius">4dp</dimen>
+
+</resources>
